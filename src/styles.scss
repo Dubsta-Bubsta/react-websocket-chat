@@ -1,0 +1,19 @@
+.messages-list {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.buttons {
+    & button:first-child {
+        margin-right: 10px;
+    }
+}
+
+
+table {
+    & tr {
+        & td {
+            padding-bottom: 14px;
+        }
+    }
+}
